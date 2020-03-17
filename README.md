@@ -11,7 +11,7 @@ On MacOs the following command will install the required dependency:\
 `brew install sdl2_gfx`
 
 Afterwards, you can just run:\
-`cd cargo-sdl`
+`cd cargo-sdl`\
 `cargo run --release path_to_rom_file`
 
 # Dependencies
